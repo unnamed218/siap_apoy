@@ -1,6 +1,6 @@
  <?php 
 class c_login extends CI_Controller{
-    
+    //tester cmd cok
   function cek_login()
         {
             $query = $this->m_login->cek($_POST['username'],($_POST['password']));

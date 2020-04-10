@@ -1,7 +1,7 @@
 <?php
 class c_masterdata extends CI_controller
 {
-   
+   //tester cmd
    //MASTER DATA BAHAN BAKU COYYY
    public function beranda()
    {

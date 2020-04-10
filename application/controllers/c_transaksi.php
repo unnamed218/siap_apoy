@@ -4,6 +4,7 @@ class c_transaksi extends CI_controller{
   //MENENTUKAN TRANSAKSI TARGET PROYEKSI
 
   //tersterrsadasdsa
+  //asdadsadas
   public function form_target_proyeksi(){
        if(!empty($this->session->userdata('level'))){
     
